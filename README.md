@@ -28,14 +28,14 @@ https://templateflip.com/demo/?template=creative-cv
 ### section 2: 
   mes competences professionnelles
   
-### section : 
+### section 3 : 
   Mes experiences: 
   dans des box carré styles articles, avec une photo en fond, plus une phrase explicative, 
   lien vers des pages avec plus d'information sur chaques experiences
   
-### section : 
+### section 4: 
    box carré, en vertical, avec mes formations, avec explications + dates 
   
-### section : 
+### section 5 : 
   centre d'intérêt, box avec photo en fond, qui donne sur des pages explicatives, 
   
