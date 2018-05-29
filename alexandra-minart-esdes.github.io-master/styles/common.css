@@ -1,0 +1,34 @@
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+footer{
+    background-color: pink;
+    color: rgb(194, 14, 14);
+    height: 5%;
+
+}
+
+
+header{
+    background-color: rgb(50,50,50);
+    padding:10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+header button{
+    background-color:rgb(50, 50, 50);
+    padding: 10 px;
+   font-size: 20px;
+   padding: 10px 24px;
+   border-radius: 0px;
+   width: 132px;
+   border: none;
+   display: inline-block;
+   color: aliceblue;
+   font-family: 'Amatic SC', cursive;
+   
+}

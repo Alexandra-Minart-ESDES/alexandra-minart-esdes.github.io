@@ -1,0 +1,34 @@
+body{
+    background-color:rgb(200, 200, 200) 
+
+}
+article2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;
+}
+
+section2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+section3{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+img{
+    width: 300px;
+}
+
+h1{
+    color: rgb(53, 53, 56);
+    font-size: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}

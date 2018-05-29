@@ -1,0 +1,126 @@
+
+@import url('https://fonts.googleapis.com/css?family=Mina');
+@import url('https://fonts.googleapis.com/css?family=Lobster+Two');
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+
+*{
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    position: relative; 
+}
+
+
+
+#home{ 
+    background-image:url("img/img2.jpg");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-attachment: fixed;
+}
+
+#home h1{
+    margin:0;
+    background: rgba(249, 249, 250, 0.952);
+    border-style: dotted;
+    border-radius: 0px;
+    border-color: rgb(15, 15, 15);
+    font-size: 50px;
+    border-width: 2px;
+    padding: 14px 40px;
+    cursor: pointer;
+    transition: all 0.3s cubic-bezier(0,.97,1,.5);
+    font-family: 'Amatic SC', cursive;
+}
+h1{
+    color: rgb(53, 53, 56);
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    }
+#home h1:hover{
+    background-color:rgb(83, 84, 92);
+    color:beige;
+    border-color: beige;
+}
+
+section{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    min-height: 100%;
+}
+section a{
+    width: 20%;
+    margin: 50px;
+    justify-content: center;
+    
+}
+article{
+    display: block;
+    flex-direction: row;
+    width: 100%;
+    margin:50px;
+    padding: 40px 40px;
+    background-color: rgb(167,169,184);
+    background-size: cover;
+    color: aliceblue; 
+    cursor: pointer;
+    transition: all 0.3s cubic-bezier(0,.97,1,.5);
+    
+}
+
+article:hover{filter:grayscale(100%);}
+
+#article-1{background-image: url("img/img3.jpg"); }
+#article-2{background-image: url("img/img4.jpg");}
+#article-3{background-image: url("img/img5.jpg");}
+#article-4{background-image: url("img/img8.jpg");}
+#article-5{background-image: url("img/img7.jpg");}
+#article-6{background-image: url("img/img6.jpg");}
+
+/**RESPONSIVE**/
+/*MOBILE*/
+@media screen and (max-width: 600px) {
+
+section{ 
+flex-wrap: nowrap;
+flex-direction: column;
+    }
+    section a{
+        width: 80%;
+    }
+}
+
+/*Tablet*/
+@media screen and (max-width:900px )and (min-width:600px){
+  section a{
+      width: 70%;
+  }  
+}
+
+/**animation**/
+section h1 {
+  animation: enter 5s ease-in-out;  
+}
+
+@keyframes enter {
+    from{ opacity: 0;
+    transform: translateY(100px);}
+
+    to { opacity:1;
+    transform:translateY(0)}
+    
+    
+}
+
