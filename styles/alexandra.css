@@ -9,7 +9,7 @@ article2{
     justify-content:center;
 }
 
-section2{
+#contact {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -29,6 +29,6 @@ img{
 
 h1{
     color: rgb(53, 53, 56);
-    font-size: 80px;
+    font-size: px;
     font-family: Verdana, Geneva, Tahoma, sans-serif
 }
