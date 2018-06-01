@@ -1,6 +1,6 @@
 a {
     color: inherit;
-    text-decoration: inherit;
+    
 }
 
 footer{
@@ -19,7 +19,7 @@ header{
     justify-content: space-around;
     
 }
-header a{
+header button{
     background-color:rgb(50, 50, 50);
     padding: 10 px;
    font-size: 20px;
@@ -28,7 +28,7 @@ header a{
    width: 132px;
    border: none;
    display: inline-block;
-   color: aliceblue;
+   color: rgb(216, 222, 228);
    font-family: 'Amatic SC', cursive;
    
 }

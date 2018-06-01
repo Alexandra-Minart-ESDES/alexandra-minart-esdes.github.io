@@ -41,6 +41,10 @@ html, body {
     transition: all 0.3s cubic-bezier(0,.97,1,.5);
     font-family: 'Amatic SC', cursive;
 }
+#about{
+    margin: 0;
+    padding: 0;
+    }
 h1{
     color: rgb(53, 53, 56);
     font-size: 30px;
@@ -122,5 +126,8 @@ section h1 {
     transform:translateY(0)}
     
     
+# about{
+margin: 0;
+padding: 0;
 }
 
