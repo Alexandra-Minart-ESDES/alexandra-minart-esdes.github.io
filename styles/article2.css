@@ -1,0 +1,36 @@
+#first{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width:100%;
+    height: 100%;
+
+}
+#image{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width:500px;
+    height: 500px;
+}
+
+#image-1:hover{filter:grayscale(100%);}
+#image-2:hover{filter:grayscale(100%);}
+#image-3:hover{filter:grayscale(100%);}
+#image-4:hover{filter:grayscale(100%);}
+
+#image-1{
+    width: 50%;
+}
+#image-2{
+    width: 50%;
+}
+#image-3{
+    width: 50%;
+}
+#image-4{
+    width: 50%;
+}
+

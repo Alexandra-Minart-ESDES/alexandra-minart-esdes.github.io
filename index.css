@@ -7,6 +7,7 @@
     box-sizing: border-box;
 }
 
+
 html, body {
     height: 100%;
     margin: 0;
@@ -42,8 +43,11 @@ html, body {
     font-family: 'Amatic SC', cursive;
 }
 #about{
+    height: 20%;
     margin: 0;
     padding: 0;
+    background-color: rgb(185, 174, 174);
+    color:black;
     }
 h1{
     color: rgb(53, 53, 56);
@@ -76,13 +80,14 @@ article{
     width: 100%;
     margin:50px;
     padding: 40px 40px;
-    background-color: rgb(167,169,184);
+    background-color: rgb(185, 174, 174);
     background-size: cover;
-    color: aliceblue; 
+    color: rgb(244, 245, 247); 
     cursor: pointer;
     transition: all 0.3s cubic-bezier(0,.97,1,.5);
     
 }
+
 
 article:hover{filter:grayscale(100%);}
 
@@ -124,10 +129,13 @@ section h1 {
 
     to { opacity:1;
     transform:translateY(0)}
+}
     
-    
-# about{
+#about{
 margin: 0;
 padding: 0;
 }
 
+#bienvenue{
+
+}
