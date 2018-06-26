@@ -2,12 +2,7 @@ body{
     background-color:rgb(243, 236, 236) 
 
 }
-#code{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content:center;
-}
+
 
 
 #info{

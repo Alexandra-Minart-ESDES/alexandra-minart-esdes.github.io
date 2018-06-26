@@ -1,36 +1,36 @@
-#first{
-    display:flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-    width:100%;
+html, body{
     height: 100%;
-
-}
-#image{
-    display:flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-    width:500px;
-    height: 500px;
 }
 
-#image-1:hover{filter:grayscale(100%);}
-#image-2:hover{filter:grayscale(100%);}
-#image-3:hover{filter:grayscale(100%);}
-#image-4:hover{filter:grayscale(100%);}
+#chapeau{
+    height: 50%;
+    width: 100%;
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: center;
+}    
 
-#image-1{
-    width: 50%;
+h1{
+    color: brown;
 }
-#image-2{
-    width: 50%;
+
+section{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: center;
+    padding: 0px;
+    margin: 0px;
 }
-#image-3{
+
+image{
     width: 50%;
+    height: 30%;
+    
 }
-#image-4{
-    width: 50%;
-}
+
+
 
