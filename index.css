@@ -10,7 +10,7 @@
 
 html, body {
     height: 100%;
-    margin: 0;
+    margin: 0px;
     position: relative; 
 }
 
@@ -30,7 +30,7 @@ html, body {
 }
 
 #home h1{
-    margin:0;
+    margin:0px;
     background: rgba(249, 249, 250, 0.952);
     border-style: dotted;
     border-radius: 0px;
@@ -44,8 +44,8 @@ html, body {
 }
 #about{
     height: 20%;
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     background-color: rgb(185, 174, 174);
     color:black;
     }
@@ -132,8 +132,8 @@ section h1 {
 }
     
 #about{
-margin: 0;
-padding: 0;
+margin: 0px;
+padding: 0px;
 }
 
 #bienvenue{
