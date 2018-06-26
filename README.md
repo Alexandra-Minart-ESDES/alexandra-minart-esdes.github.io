@@ -11,7 +11,7 @@ ma cible : voyageurs francais,
 
 ## 1ere section: 
 presentation des articles dans des box carré, avec une photo en fond, plus une phrase explicative; 
-lien vers des pages d'articles. 
+lien vers des pages d'articles. (articles en cours de constructions) 
   
 # Photo
 
