@@ -1,18 +1,19 @@
 
 img{
-    width: 900px;}
+    width: 550px;}
 
 #texte{
     display:flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
     justify-content: space-around;
 }
 
 p{
-    margin-left:5%;
+    margin-left:7%;
     margin-right: 7%;
     text-align: justify;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 #may h1{
@@ -21,7 +22,14 @@ p{
     font-family: 'Amatic SC', cursive;
     margin-left: 5%;
 }
+#jun h2{
+    margin-left: 5%;
+    color: rgb(255, 216, 44);
+    font-size: 35px;
+    font-family: 'Amatic SC', cursive;
+}
 
 #numero{
   font-size: 40px;
+  margin-left: 3%;
 }
