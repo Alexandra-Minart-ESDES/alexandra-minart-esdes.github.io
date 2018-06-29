@@ -1,41 +1,34 @@
 # alexandra-minart-esdes.github.io
-CV Alexandra MINART
-Un CV en Ligne 
- 
-- Mes experiences
+Blog Alexandra MINART
+Week-end a Stockholm  
 
-formulaire de contact 
-
-ma cible : recruteurs marketing produit, agroalimentaire 
+ma cible : voyageurs francais, 
 
 # -Premiere page
-avec le meme visuel que: 
-https://templateflip.com/demo/?template=creative-cv
   - une photo de fond 
-  -une photo de profil avec une animation 
-  - en haut à droite: menu 
-  - lien LinKedin
-  - lien pour telecharger mon CV
+  -un bouton avec une animation 
+  - en haut: menu
+  
+ ## 1ere section: 
+ un bandeau gris, avec du texte pour expliquer mon site
  
-## 1ere section: 
- dans une carte
- -  information sur moi "About", job recherché 
-  - Nom, Prenom
-  - mail, telephone
-  - adresse 
-  - langue
-  
-### section 2: 
-  mes competences professionnelles
-  
-### section 3 : 
-  Mes experiences: 
-  dans des box carré styles articles, avec une photo en fond, plus une phrase explicative, 
+## 2eme section: 
+ Dans des box carré, 6 articles, avec une photo en fond, plus une phrase explicative, 
   lien vers des pages avec plus d'information sur chaques experiences
+
   
-### section 4: 
-   box carré, en vertical, avec mes formations, avec explications + dates 
+# page 2: 
+
+page de nouvelle article, 
+un article avec du texte et une photo, 
+la photo est centrée et se trouve entre le texte
+
+# page 3 : 
+  Mes photos: 
+  4 Photos carré, avec un titre en haut de la page, 
   
-### section 5 : 
-  centre d'intérêt, box avec photo en fond, qui donne sur des pages explicatives, 
+# page 4 : 
+   contact, numero de telephone, email, avec une photo en dessous, 
+   
+
   
